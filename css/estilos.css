@@ -143,6 +143,22 @@ div.gallery img {
 
 div.desc {
     padding: 15px;
+    color: green ;
     text-align: center;
 }
+
+/*Bloque final*/
+
+.final{
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 20px;
+	font-size: 20px;
+}
+.final p{
+	color: red;
+	text-align: left;
+}
+
+
 
